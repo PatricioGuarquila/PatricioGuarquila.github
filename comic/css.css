@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+}
+body {
+    height: 100%;
+    background-image: url("../comic/imagenes/729c5dc4-3c06-4500-9bb9-24f7065bbbda.jpeg"); 
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  }
+.pla1{
+    float: left;
+    width: 50%;
+    height: 100vh;
+    
+}
+.pla2{
+    float: right;
+    width: 50%;
+    height: 100vh;
+    
+}
+.bot ul{
+    background-color: beige;
+    display: flex;
+    float: right;
+    margin: 1%;
+    margin-right: 45%;
+    width: 8%;
+    text-align: center;
+    color: black;
+    padding: 10px;
+    display: block;
+    border: 3px solid black;
+    
+}
